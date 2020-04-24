@@ -1,0 +1,14 @@
+//import {add} from './components/arith.js';
+//add(11, 10);
+//import {testArmstrong} from './components/armstrong.js';
+//testArmstrong();
+//import {add,userFriendnames,printCapitalNames} from './components/extendedParameter.js';
+//add();
+//userFriendnames();
+//printCapitalNames();
+//import {createChatroom,getUserList,getMessageList} from './components/chat.js';
+//createChatroom();
+//getUserList();
+//getMessageList();
+import {testPromises} from './components/promises.js';
+testPromises();
